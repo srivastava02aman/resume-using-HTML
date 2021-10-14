@@ -5,4 +5,6 @@
   <li>Educations.
     <li>Work Experience.
       <li>Skills
+        <li>My Hobbies
+          <li>Contact Us
 </ul>
