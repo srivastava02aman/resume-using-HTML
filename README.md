@@ -2,5 +2,5 @@
 <h3>Containing</h3>
 <ul>
 <li>Personal Details
-  <li>
+  <li>Educations
 </ul>
