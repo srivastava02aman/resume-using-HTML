@@ -1,6 +1,6 @@
 # Resume Using HTML
 <h3>Technology Used.</h3>
-Pure HTML
+HTML
 
 <h3>Website Contain.</h3>
 <ul>
